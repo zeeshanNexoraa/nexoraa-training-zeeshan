@@ -5,5 +5,5 @@ import "fmt"
 func main() {
     // Initial Nexoraa greeting
     // PR auto-update demonstration
-    fmt.Println("Hello, Nexoraa!")
+    fmt.Println("Hello, World!")
 }
