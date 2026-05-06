@@ -10,4 +10,4 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Say hello
-        run: echo "CI is running!"
+        run: exit 1
